@@ -1,0 +1,238 @@
+body {
+	color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.main-heading {
+    color: #66BFBF;
+    top: 50px;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    margin: 0 auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+    margin: 100px auto;
+}
+
+
+.top-container {
+    position: relative;
+    padding-top: 80px;
+    background-color: #EAF6F6;
+}
+
+.sub-heading {
+       margin-top: 30px;
+    font-size: 1.6rem;
+    margin-bottom: 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 280px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 280px;
+        left: 250px;
+}
+
+.mountain-img {
+    margin-bottom: 20px;
+}
+
+.profile img {
+    width: 180px;
+
+}
+
+.middle-container {
+    position: relative;
+    margin: 100px auto 0;
+}
+
+.bottom-container {}
+
+.devdesign {
+    width: 128px;
+    float: left;
+    margin-right: 30px;
+}
+
+.photography {
+    width: 128px;
+    float: right;
+    margin-left: 30px;
+}
+
+.photo-img {}
+
+
+.profile {
+    width: 30%;
+    margin: 60px auto;
+}
+
+
+.skills {
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+
+}
+
+.btn {
+
+    background: #11cdd4;
+    border-radius: 8px;
+    color: #FFFFFF;
+     font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    margin: 20px auto;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+	background-color: #30e3cb
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #66bfbf;
+}
+
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: .85rem;
+}
+
+.contact-me {
+   
+    margin: 50px auto;
+}
+
+
+.contact-me h2 {
+    font-size: 2.3rem;
+    padding: 15px;
+}
+
+.contact-me h3 {
+
+    padding: 15px;
+}
+
+.contact-me p {
+	 width: 40%;
+	 margin: 15px auto;
+  
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #11999e;
+    padding: 15px;
+}
+
+
+
+
+
+
+/*Practice CSS*/
+
+/*.top-container {
+	background-color: #EAF6F6;
+	border:solid 10px  black;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}
+
+.middle-container {
+	background-color: yellow;
+	border:solid 20px  black;
+	margin-left: 260px;
+	width: 200px;
+	height: 200px;
+
+}
+
+.bottom-container {
+	background-color: blue;
+	border: solid 10px  black;
+	margin-left: 500px;
+	width: 200px;
+	height: 200px;
+
+}*/
+
+/*.one{
+	position: relative;
+	left: 10px;
+	background-color: red;
+
+}
+.two{
+	position: relative;
+	background-color: pink;
+
+}
+.three{
+	position: relative;
+	right: 10px;
+	background-color: green;
+
+}
+.fourth {
+	position: relative;
+	left: 80px;
+}
+
+.middle-container:hover .one{
+	position: relative;
+	top: 25px;
+}
+.middle-container:hover .two {
+	position: relative;
+	bottom: 25px;
+}
+.middle-container:hover .three{
+	
+	left: 25px;
+}*/
