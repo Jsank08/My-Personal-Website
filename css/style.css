@@ -1,5 +1,5 @@
 body {
-	color: #40514E;
+    color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -46,8 +46,8 @@ hr {
 }
 
 .sub-heading {
-       margin-top: 30px;
-    font-size: 1.6rem;
+    margin-top: 30px;
+    font-size: 1.4rem;
     margin-bottom: 0;
 }
 
@@ -59,7 +59,7 @@ hr {
 .bottom-cloud {
     position: absolute;
     bottom: 280px;
-        left: 250px;
+    left: 250px;
 }
 
 .mountain-img {
@@ -82,6 +82,7 @@ hr {
     width: 128px;
     float: left;
     margin-right: 30px;
+    padding: 40px 0;
 }
 
 .photography {
@@ -99,9 +100,7 @@ hr {
 }
 
 
-.skills {
-    
-}
+.skills {}
 
 .skill-row {
     width: 50%;
@@ -115,7 +114,7 @@ hr {
     background: #11cdd4;
     border-radius: 8px;
     color: #FFFFFF;
-     font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     margin: 20px auto;
     padding: 10px;
@@ -126,7 +125,7 @@ hr {
 }
 
 .btn:hover {
-	background-color: #30e3cb
+    background-color: #30e3cb
 }
 
 .bottom-container {
@@ -136,13 +135,14 @@ hr {
 }
 
 
+
 .bottom-container p {
     color: #EAF6F6;
     font-size: .85rem;
 }
 
 .contact-me {
-   
+
     margin: 50px auto;
 }
 
@@ -158,9 +158,9 @@ hr {
 }
 
 .contact-me p {
-	 width: 40%;
-	 margin: 15px auto;
-  
+    width: 40%;
+    margin: 15px auto;
+
 }
 
 .footer-link {
